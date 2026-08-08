@@ -64,9 +64,13 @@ Configuração do ambiente de desenvolvimento.
 ## Notas 
 
 [Notas Importantes](/docs/notes/importaNotes.md)
+
 [Computador Basico - C](/docs/notes/computerBasics.md)
+
 [Básico de Sistemas Operacionais](/docs/notes/basicOperationSystem.md)
+
 [Compilação](/docs/notes/compilers.md)
+
 ---
 
 ## Dicas 
