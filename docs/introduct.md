@@ -60,7 +60,9 @@ Configuração do ambiente de desenvolvimento.
 [Configurações](configurations.md)
 
 ---
+
 ## Notas 
+
 [Notas Importantes](/docs/notes/importaNotes.md)
 [Computador Basico - C](/docs/notes/computerBasics.md)
 [Básico de Sistemas Operacionais](/docs/notes/basicOperationSystem.md)
@@ -68,6 +70,7 @@ Configuração do ambiente de desenvolvimento.
 ---
 
 ## Dicas 
+
 [Conselhos](/docs/references/rulesGold.md)
 [Pensando mais a frente..](/docs/references/advancedTips.md)
 
