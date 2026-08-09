@@ -17,7 +17,17 @@ int main (void) { // cabeçalho da função principal, que é o ponto de entrada
     printf("Valor do caractere: %c\n", caractere);
     printf("Valor do grande decimal: %.15f\n", grandeDecimal);
 
-        return 0; // retorna 0 para indicar que o programa terminou com sucesso.
+    int idade = 25;           // variável do tipo inteiro
+    float altura = 1.75;      // variável do tipo float
+    char inicial = 'J';       // variável do tipo char
+    double salario = 3500.50; // variável do tipo double
+
+    printf("Idade: %d anos\n", idade); // imprime a idade na tela
+    printf("Altura: %.2f metros\n", altura); // imprime a altura na tela
+    printf("Inicial: %c\n", inicial); // imprime a inicial na tela
+    printf("Salário: R$ %.2lf\n", salario); // imprime o salário na tela
+
+    return 0; // retorna 0 para indicar que o programa terminou com sucesso.
 }
 
 // Conceitos importantes:
