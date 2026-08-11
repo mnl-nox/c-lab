@@ -56,6 +56,8 @@ The objective is to build a deep understanding of how software interacts with ha
 └── README.md
 ```
 
+See the documentation index: [docs/README.md](docs/README.md)
+
 ---
 
 ## Roadmap
