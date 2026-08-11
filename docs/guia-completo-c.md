@@ -424,6 +424,16 @@ int main(void)
 
 ---
 
-## 16. Próximo passo
+## 16. Exemplos por nível
+
+Veja exemplos prontos em arquivos `.c` organizados por nível de dificuldade em [docs/examples-c/README.md](examples-c/README.md).
+
+- Iniciante: [docs/examples-c/iniciante](examples-c/iniciante)
+- Intermediário: [docs/examples-c/intermediario](examples-c/intermediario)
+- Avançado: [docs/examples-c/avancado](examples-c/avancado)
+
+---
+
+## 17. Próximo passo
 
 Depois de estudar este guia, avance para exercícios em [exercises](../exercises/) e projetos práticos em [projects](../projects/).

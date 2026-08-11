@@ -25,6 +25,9 @@ Este índice organiza a documentação do repositório por seções, facilitando
 - **Guia completo**
   - [docs/guia-completo-c.md](docs/guia-completo-c.md)
 
+- **Exemplos por nível**
+  - [docs/examples-c/README.md](docs/examples-c/README.md)
+
 - **Referências**
   - [docs/references/importantBooks.md](docs/references/importantBooks.md)
   - [docs/references/advancedTips.md](docs/references/advancedTips.md)
