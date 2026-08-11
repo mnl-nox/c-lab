@@ -40,8 +40,8 @@ Notas:
 **Níveis de Aprendizagem (recomendado)**
 
 - Nível: **Iniciante** — Estes exercícios cobrem conceitos fundamentais: sintaxe, `main()`, tipos primitivos, I/O básico e compilação.
-- Próximo passo: seguir para `exercises/02-control-flow` (nível Iniciante→Intermediário) quando confortável com estes exercícios.
+- Próximo passo: seguir para [exercises/02-control-flow](../02-control-flow/) (nível Iniciante→Intermediário) quando confortável com estes exercícios.
 
-Referência de níveis por setor: [docs/learning-levels.md](../docs/learning-levels.md)
+Referência de níveis por setor: [docs/guia-completo-c.md](../../docs/guia-completo-c.md)
 
 Mantido por: mnl-nox

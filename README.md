@@ -26,6 +26,8 @@ O objetivo é aprender C desde os fundamentos até técnicas de programação de
 ## Sumário
 
 - **Documentação (índice):** [docs/README.md](docs/README.md)
+- **Guia completo de C:** [docs/guia-completo-c.md](docs/guia-completo-c.md)
+- **Exemplos por nível:** [examples-c/README.md](examples-c/README.md)
 - **Exercícios:** [exercises/](exercises/)
 - **Projetos:** [projects/](projects/)
 - **Código-fonte:** [src/](src/) e [include/](include/)

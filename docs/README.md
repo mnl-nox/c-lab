@@ -26,7 +26,7 @@ Este índice organiza a documentação do repositório por seções, facilitando
   - [docs/guia-completo-c.md](docs/guia-completo-c.md)
 
 - **Exemplos por nível**
-  - [docs/examples-c/README.md](docs/examples-c/README.md)
+  - [examples-c/README.md](../examples-c/README.md)
 
 - **Referências**
   - [docs/references/importantBooks.md](docs/references/importantBooks.md)
@@ -42,4 +42,4 @@ Uso
 
 - Navegue até a pasta correspondente para ver exercícios e exemplos.
 - A pasta [projects](../projects/) fica reservada para projetos práticos e aplicações.
-- O guia completo está disponível em [docs/guia-completo-c.md](docs/guia-completo-c.md).
+- O guia completo está disponível em [docs/guia-completo-c.md](guia-completo-c.md).

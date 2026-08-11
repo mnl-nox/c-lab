@@ -32,3 +32,4 @@ gcc 05-switch.c -o 05-switch
 Notas:
 
 - Nível recomendado: Iniciante → Intermediário.
+- Consulte os exemplos por nível em [examples-c/README.md](../../examples-c/README.md).
