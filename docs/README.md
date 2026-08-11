@@ -27,6 +27,7 @@ Este índice organiza a documentação do repositório por seções, facilitando
   - [docs/references/advancedTips.md](docs/references/advancedTips.md)
   - [docs/references/rulesGold.md](docs/references/rulesGold.md)
   - [docs/references/tips.md](docs/references/tips.md)
+  - [docs/references/calculator-project-cLab.md](docs/references/calculator-project-cLab.md)
 
 - **Imagens**
   - [docs/images/computerArchitcture.png](docs/images/computerArchitcture.png)
