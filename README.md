@@ -3,6 +3,7 @@
 </p>
 
 ---
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/C-ISO%20C17-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -15,177 +16,61 @@
 
 </p>
 
+## Resumo
 
-## Overview
+Repositório de estudos sobre a linguagem C, com documentação, exercícios e projetos práticos.
 
-This repository documents my complete journey learning the C programming language, from the fundamentals to professional software development and systems programming.
+O objetivo é aprender C desde os fundamentos até técnicas de programação de sistemas.
 
-The objective is to build a deep understanding of how software interacts with hardware while developing strong programming fundamentals applicable to operating systems, embedded systems, compilers, networking and high-performance software.
 
----
+## Sumário
 
-## Repository Structure
+- **Documentação (índice):** [docs/README.md](docs/README.md)
+- **Exercícios:** [exercises/](exercises/)
+- **Projetos:** [projects/](projects/)
+- **Código-fonte:** [src/](src/) e [include/](include/)
+- **Build:** `Makefile`
+- **Licença:** MIT
 
-```text
-.
-├── docs/
-│   ├── notes/
-│   ├── references/
-│   └── images/
-│
-├── exercises/
-│   ├── 01-basics/
-│   ├── 02-control-flow/
-│   ├── 03-functions/
-│   ├── 04-arrays/
-│   ├── 05-pointers/
-│   ├── 06-structures/
-│   └── ...
-│
-├── projects/
-│   ├── calculator/
-│   ├── file-manager/
-│   ├── shell/
-│   ├── mini-grep/
-│   ├── web-server/
-│   └── ...
-│
-├── src/
-├── include/
-├── Makefile
-└── README.md
-```
 
-See the documentation index: [docs/README.md](docs/README.md)
+## Começando (rápido)
 
----
-
-## Roadmap
-
-| Module | Status |
-|----------|:------:|
-| Computer Architecture | ⬜ |
-| Development Environment | ⬜ |
-| Variables and Data Types | ⬜ |
-| Operators | ⬜ |
-| Control Flow | ⬜ |
-| Functions | ⬜ |
-| Arrays | ⬜ |
-| Strings | ⬜ |
-| Pointers | ⬜ |
-| Dynamic Memory | ⬜ |
-| Structures | ⬜ |
-| Enumerations | ⬜ |
-| File I/O | ⬜ |
-| Modular Programming | ⬜ |
-| Data Structures | ⬜ |
-| Algorithms | ⬜ |
-| Bit Manipulation | ⬜ |
-| POSIX Programming | ⬜ |
-| Processes | ⬜ |
-| Threads | ⬜ |
-| Sockets | ⬜ |
-| Final Projects | ⬜ |
-
----
-
-## Toolchain
-
-| Tool | Purpose |
-|--------|---------|
-| GCC | GNU Compiler Collection |
-| Clang | LLVM Compiler |
-| GDB | Debugger |
-| Valgrind | Memory Analysis |
-| Make | Build Automation |
-| Git | Version Control |
-| Linux | Development Platform |
-
----
-
-## Compilation
-
-Default:
+Compilar um arquivo C simples:
 
 ```bash
-gcc main.c -o main
+gcc -Wall -Wextra -std=c17 arquivo.c -o arquivo
+./arquivo
 ```
 
-Recommended:
+Compilar com avisos e debug recomendado:
 
 ```bash
-gcc \
--Wall \
--Wextra \
--Wpedantic \
--Wshadow \
--Wconversion \
--Werror \
--std=c17 \
--O2 \
--g \
-main.c \
--o main
-```
-
-Execution:
-
-```bash
+gcc -Wall -Wextra -Wpedantic -std=c17 -O0 -g main.c -o main
 ./main
 ```
 
----
 
-## Recommended Reading
+## Estrutura (visão rápida)
 
-### C Language
+- `docs/` — documentação e notas (índice em `docs/README.md`)
+- `exercises/` — exercícios por tópico (01-basics, 02-control-flow, ...)
+- `projects/` — projetos maiores e exemplos práticos
+- `src/`, `include/` — código reutilizável e headers
 
-- The C Programming Language — Brian W. Kernighan & Dennis M. Ritchie
-- C Programming: A Modern Approach — K. N. King
-- Modern C — Jens Gustedt
-- Expert C Programming: Deep C Secrets — Peter van der Linden
-- Understanding and Using C Pointers — Richard Reese
-- C Interfaces and Implementations — David R. Hanson
 
-### Computer Science
+## Roadmap</br>
 
-- Code — Charles Petzold
-- Computer Systems: A Programmer's Perspective — Bryant & O'Hallaron
-- Structure and Interpretation of Computer Programs
-- Introduction to Algorithms — Cormen, Leiserson, Rivest & Stein
+- Fundamentos → Controle de fluxo → Funções → Ponteiros → Estruturas → I/O → Sistemas
 
-### Operating Systems
 
-- The Linux Programming Interface — Michael Kerrisk
-- Advanced Programming in the UNIX Environment — W. Richard Stevens
-- Operating Systems: Three Easy Pieces
+## Contribuição
 
----
+1. Fork
+2. `git checkout -b feat/minha-melhoria`
+3. Commit e push
+4. Abra um Pull Request
 
-## References
 
-- ISO/IEC 9899 (C Standard)
-- GNU GCC Documentation
-- LLVM Documentation
-- POSIX Standard
-- Linux Manual Pages
-- Beej's Guide to Network Programming
+## Licença
 
----
-
-## Goals
-
-- Master the C language.
-- Write portable and efficient software.
-- Understand memory management.
-- Build solid knowledge of computer systems.
-- Develop professional-quality code.
-- Create practical projects.
-- Document the entire learning process.
-
----
-
-## License
-
-Distributed under the MIT License.
-````
+Distribuído sob a licença MIT.
