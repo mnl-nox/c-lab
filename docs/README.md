@@ -22,6 +22,9 @@ Este índice organiza a documentação do repositório por seções, facilitando
   - [docs/notes/basicOperationsMath.md](docs/notes/basicOperationsMath.md)
   - [docs/notes/compilers.md](docs/notes/compilers.md)
 
+- **Guia completo**
+  - [docs/guia-completo-c.md](docs/guia-completo-c.md)
+
 - **Referências**
   - [docs/references/importantBooks.md](docs/references/importantBooks.md)
   - [docs/references/advancedTips.md](docs/references/advancedTips.md)
@@ -35,4 +38,5 @@ Este índice organiza a documentação do repositório por seções, facilitando
 Uso
 
 - Navegue até a pasta correspondente para ver exercícios e exemplos.
-- Quer que eu adicione badges de nível a cada README das pastas? Posso automatizar isso.
+- A pasta [projects](../projects/) fica reservada para projetos práticos e aplicações.
+- O guia completo está disponível em [docs/guia-completo-c.md](docs/guia-completo-c.md).
